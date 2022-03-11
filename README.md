@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Grasmash's github stats](https://github-readme-stats.vercel.app/api?username=grasmash
+![Grasmash's github stats](https://github-readme-stats.vercel.app/api?username=grasmash)
 
 <!--
 **grasmash/grasmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
